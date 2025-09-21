@@ -196,9 +196,41 @@ footer {
   }
 }
 
-.fa-brands {
+#contact li {
+  margin-bottom: 0.6rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+#contact li i {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.fa-linkedin,
+.fa-square-github {
   font-size: 1.5em;
 }
+
 .fa-solid {
   font-size: 1.3rem;
+}
+
+.fa-envelope {
+  color: #d44638;
+}
+
+.fa-phone {
+  color: #25d366;
+}
+.fa-linkedin {
+  color: #0077b5;
+}
+
+.fa-square-github {
+  color: #333;
 }

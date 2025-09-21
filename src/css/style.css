@@ -195,3 +195,10 @@ footer {
     gap: 0.5rem;
   }
 }
+
+.fa-brands {
+  font-size: 1.5em;
+}
+.fa-solid {
+  font-size: 1.3rem;
+}
